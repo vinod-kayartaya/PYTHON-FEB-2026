@@ -132,5 +132,6 @@ def main():
     # last line in the main() function
     print("Bye! Thank for using our app.")
 
-# call the main() function
-main()
+if __name__ == '__main__':
+    # call the main() function
+    main()
